@@ -1,9 +1,9 @@
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 송세미
-- 리뷰어 : 황성
+- 리뷰어 : 황성연
 
 # PRT(Peer Review Template)
-- [ ] **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
+- [x] **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
       ![result_person](result_person.jpg) ![result_cat](result_cat.jpg) ![result_chromakey](result_chromakey.jpg)
     
@@ -12,7 +12,8 @@
     - 해당 코드 블럭에 doc string/annotation이 달려 있는지 확인
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
     - 주석을 보고 코드 이해가 잘 되었는지 확인
-        - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+        - <img width="701" height="516" alt="image" src="https://github.com/user-attachments/assets/a90bb92f-dc14-4d46-8b24-dc117c1459e5" />
+
         
 - [ ] **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나 새로운 시도 또는 추가 실험을 수행해봤나요?**
     - 문제 원인 및 해결 과정을 잘 기록하였는지 확인
