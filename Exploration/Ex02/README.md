@@ -8,9 +8,13 @@
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
 
 ResNet 모델 구현
+
 <img width="426" height="179" alt="Image" src="https://github.com/user-attachments/assets/1a8e6c0e-b78d-414a-b872-ac6e26a547aa" />
+
 ResNet-34와 PlainNet-34 accuracy 비교
+
 <img width="426" height="250" alt="Image" src="https://github.com/user-attachments/assets/cb9a5f55-5c89-4ad2-bfbe-bf14fafdb4a8" />
+
 <img width="426" height="250" alt="Image" src="https://github.com/user-attachments/assets/07f2553f-61d8-40f2-ae17-ecd8530a3d12" />
 
 - [ ] **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
@@ -50,4 +54,5 @@ CUDA Driver/Library Link Error 해결 시도
 - Tensorflow를 활용해 ResNet의 skip connection과 블록 구조를 체계적으로 잘 구현
 - 코드의 중복을 최소화했고, 전체적인 흐름이 간결했음
 - 학습 결과에 대한 분석도 테이블로 정리하여 수치 비교하기가 편했고 모델의 핵심 내용(skip connection)과 함께 결과 분석을 잘 정리했음
+
 \`\`\`
